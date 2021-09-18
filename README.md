@@ -1,1 +1,1 @@
-# cs-5800-algorithm
+# CS-5800-algorithm
